@@ -18,7 +18,7 @@ I'm currently working on Python, Java, and Web Development<br>I'm looking to col
 ---
 [![](https://visitcount.itsvg.in/api?id=Sidharthsahoo-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 
 
 <!--
 **Sidharthsahoo-code/Sidharthsahoo-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
